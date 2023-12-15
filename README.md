@@ -1,6 +1,6 @@
 # Blood-Donation-Analysis-Using-TPOT
 
-![Figure 1-1]("Figure 1-1")
+![Figure 1-1](https://github.com/dhamnanineha0801/Blood-Donation-Analysis-Using-TPOT/blob/main/images/tpot-logo.jpg "Figure 1-1")
 
 
 ## Project Summary
@@ -13,7 +13,7 @@ TPOT stands for Tree-based Pipeline Optimization Tool. Consider TPOT your Data S
 
 TPOT will automate the most tedious part of machine learning by intelligently exploring thousands of possible pipelines to find the best one for your data.
 
-![Figure 1-1]( "Figure 1-1")
+![Figure 1-1](https://github.com/dhamnanineha0801/Blood-Donation-Analysis-Using-TPOT/blob/main/images/tpot-ml-pipeline.png "Figure 1-1")
 
 ## Data Preparation, Data cleaning and Model Selection
 
